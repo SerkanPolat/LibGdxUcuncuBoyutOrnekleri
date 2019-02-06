@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.761905 0.761905 0.761905
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump -bm -0.732283 land_shallow_topo_2048-ktq--620x349@abc.jpg
+map_Kd land_shallow_topo_2048-ktq--620x349@abc.jpg
