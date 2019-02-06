@@ -14,8 +14,13 @@ LibGdxUcuncuBoyutOrnekleri/core/src/com/serkanp/libgdx/
   Kamera Hareketleri 
   Düz Çizgilerden Aralardaki Nokta Sayısını Arttırarak Eğri Oluşturma.
   
-  Keys:ModelBuilder,Model,ModelInstance,Environment,MeshPartBuilder,PointLight,PerspectiveCamera,triangle,Vector3
+  Keys:ModelBuilder,Model,ModelInstance,Environment,MeshPartBuilder,PointLight,PerspectiveCamera,triangle,Vector3,InputProcessor
   
   --UcuncuBoyutYuzey.java
   
+  LibGdx Üç Boyutlu Engebeli Arazi Oluşturuldu.
+  Blender Programı Kullanılarak Dışarıdan 2 Adet Cisim LibGdx İçine İmport Edildi.
+  Arazide Oluşturulan Cismin Bakılan Yönde Engebeli Arazide Hareket Etmesi Sağlandı.
+  
+  Keys:ModelLoader,Blender
   
